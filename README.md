@@ -17,6 +17,11 @@ Due to the limited number of information given by Apple or Dr. Dre, we simply ha
 
 # Sources
 https://allhiphop.com/headlines/dr-dres-beats-by-dre-cost-an-estimated-14-to-make/
+
 https://www.head-fi.org/threads/did-you-miss-it-beats-by-dre-headphones-cost-14-to-make.759663/#:~:text=Dre's%20magical%20sound%20devices%20cost,billion%20in%20sales%20throughout%202013.
+
 https://archive.nytimes.com/dealbook.nytimes.com/2014/05/08/apple-said-to-be-in-talks-to-buy-beats-for-3-2-billion/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1&
+
 https://www.kaggle.com/code/drindeng/linear-programming-with-python
+
+ChatGPT to clarify that 14$ is the cost to **assemble** the headphones.
