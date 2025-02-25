@@ -4,7 +4,7 @@
 # The Model
 This Simple Linear Programming Model will determine the profit from producing Beats headphones by using the assembly cost only. The assembly numbers are based on 2014 data from Dr. Dre and use the retail price of Beats Studio3 and Solo3 headphones. 
 
-Due to the limited number of information given by Apple or Dr. Dre, we simply have the cost to assemble and the retail price of Beats headphones.
+Due to the limited number of information given by Apple and Dr. Dre, we simply have the cost to assemble and the retail price of Beats headphones.
 
 
 # Sources
