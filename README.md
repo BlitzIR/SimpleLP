@@ -1,5 +1,5 @@
 # SimpleLP 
-
+Simple LP problem for CS400: Algorithms
 ## The Model
 This Simple Linear Programming Model will determine the profit from producing Beats headphones by using the assembly cost only. The assembly numbers are based on 2014 data from Dr. Dre and use the retail price of Beats Studio3 and Solo3 headphones. 
 
